@@ -17,7 +17,7 @@ public class Principal extends ApplicationAdapter {
 
 	@Override
 	public void render () {
-		System.out.println("syso");
+		System.out.println("Te amo <3 y anda :D");
 		ScreenUtils.clear(1, 0, 0, 1);
 		batch.begin();
 		batch.draw(img, 0, 0);
