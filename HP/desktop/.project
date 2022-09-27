@@ -24,7 +24,11 @@
 		<link>
 			<name>assets</name>
 			<type>2</type>
+<<<<<<< HEAD
 			<location>C:/Users/brisa/OneDrive/Documentos/GitHub/HPequalsSpeed/HP/assets</location>
+=======
+			<location>C:/Users/tomib/OneDrive/Escritorio/Java/HP/HPequalsSpeed/HP/assets</location>
+>>>>>>> 3ec247d3ebf1ab1ffe4bf5d7edf566dc0a542bff
 		</link>
 	</linkedResources>
 </projectDescription>
